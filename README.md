@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there
+# Hola, soy Santiago
 
-<!--
-**Theswarmedon/Theswarmedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí:
 
-Here are some ideas to get you started:
+Soy un estudiante de 2º año de ciclo medio en Badalona con una pasión creciente por el diseño gráfico y la tecnología. El próximo año planeo especializarme en Diseño Gráfico mientras continúo desarrollando mis habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que controlo actualmente:
+
+### Lenguajes y Tecnologías:
+```python
+lenguajes_actuales = ["HTML", "CSS"]
+herramientas = ["Visual Studio Code", "Git", "GitHub"]
+en_aprendizaje = ["Python", "Diseño UI/UX" "JavaScript"]
